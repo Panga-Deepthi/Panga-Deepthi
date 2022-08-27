@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/PANGA DEEPTHI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panga deepthi" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/PANGA DEEPTHI](https://www.linkedin.com/in/panga-deepthi-30b236239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3AnW4g5YTEe89I4XlbqZ6A%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panga deepthi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

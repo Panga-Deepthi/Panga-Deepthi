@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pangadeepthi012@gmail.com**
 
-- - 📄 Know more about my experiences [My Resume](https://www.overleaf.com/project/666fc9c3417e831d42c37a60)
+-  📄 Know more about my experiences [My Resume](https://www.overleaf.com/project/666fc9c3417e831d42c37a60)
 
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepthi</h1>
+<h1 align="center">Hi 👋, I'm  Panga Deepthi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panga-deepthi&label=Profile%20views&color=0e75b6&style=flat" alt="panga-deepthi" /> </p>
 
 - 🔭 I’m currently working on **Web Technologies**

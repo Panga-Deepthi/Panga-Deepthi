@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorthims**
 
+- 👨‍💻 I'm currently learning **System Design**
+
 - 📫 How to reach me **pangadeepthi012@gmail.com**
 
 -  📄 Know more about my experiences [My Resume](https://www.overleaf.com/project/666fc9c3417e831d42c37a60)

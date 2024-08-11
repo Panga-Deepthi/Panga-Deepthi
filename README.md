@@ -14,7 +14,7 @@
 
 <a href="https://www.instagram.com/deepthipanga_71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepthipanga_71" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/dsak_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dsak_official" height="30" width="40" /></a>
+<!--<a href="https://www.hackerrank.com/dsak_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dsak_official" height="30" width="40" /></a>-->
 </div>
 
 <br>
